@@ -1,5 +1,4 @@
 openjdk version "11.0.8" 2020-07-14
-macOS 10.15.4 MacBook Air (Early 2015)
 
 1. When return from level 1,2 or 3, the total score, fruits,
 fruits in this level and score in this level will be reseted to 0.
